@@ -19,7 +19,6 @@ message = 'productPrice'; // 'теперь в корзине!'
 console.log(message = productName);
 
 
-
     // Конец решения задания №1.1.
 
     return message;
@@ -36,6 +35,7 @@ function addInCartCountChange(value) {
     let newValue;
     newValue = 'oldValue';
     oldValue = oldValue + 1; 
+
 
 
 
@@ -57,7 +57,7 @@ function addInCartSumChange(sum, delta) {
 
     let newSum = 'oldSum' + 'difference';
     console.log(newSum);
-    let newSumText = ???
+    let newSumText 
 
     // Конец решения задания №1.3.
 
